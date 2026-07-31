@@ -89,6 +89,8 @@ Dado o desbalanceamento do dataset, a acurácia isolada foi descartada como mét
 
 O projeto culminou na implementação de um sistema interativo de manutenção preditiva. O sistema permite que o usuário insira as leituras de sensores da máquina (tipo do produto, temperatura, RPM, torque e desgaste). Com base nesses dados, o melhor modelo identificado classifica a probabilidade de falha e emite recomendações de ação, como parada programada para inspeção ou monitoramento contínuo.
 
+## Aplicação Web
+Link: https://jessiicalayannee.pythonanywhere.com/
 ---
 
 ## Referências
@@ -96,3 +98,5 @@ O projeto culminou na implementação de um sistema interativo de manutenção p
 [1] Stephan Matzka. (2020). AI4I 2020 Predictive Maintenance Dataset. Kaggle. Disponível em: https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020
 
 [2] Link do colab: https://colab.research.google.com/drive/11G76k6_5_Jh3dbwbC0B27ilr0zgUqZz2#scrollTo=oZdyuAf0F0bn
+
+
