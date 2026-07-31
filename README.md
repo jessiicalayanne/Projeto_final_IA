@@ -94,3 +94,4 @@ O projeto culminou na implementação de um sistema interativo de manutenção p
 ## Referências
 
 [1] Stephan Matzka. (2020). AI4I 2020 Predictive Maintenance Dataset. Kaggle. Disponível em: https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020
+[2] Link do colab: https://colab.research.google.com/drive/11G76k6_5_Jh3dbwbC0B27ilr0zgUqZz2#scrollTo=oZdyuAf0F0bn
